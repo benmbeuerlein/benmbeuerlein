@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+// Hello, world! The name's Ben Beuerlein, and i'm brand new to software developing. I am 24 y/o, currently living outside of Columbus, Ohio. I'm working on no projects at the moment (other than the pre-work for the upcoming bootcamp). 
+//Ask me about my trip to play soccer in England, or about why cats are my favorite animal on the face of this planet. 
+//You can reach me anytime at "(614)-359-4888". Texts or calls are welcome. You can also reach me at "benbeuerlain@gmail.com".
+//Fun Facts about me are: Im deathly afraid of heights. I have 2 cats, one of them only has 3 working legs. I've been to several foreign countries including England, Barbados, Aruba, Italy, and Jamaica. I also love soccer. I played from the age of 4 up till my senior year of high-school where I ended with 1st team all-state honors. 
